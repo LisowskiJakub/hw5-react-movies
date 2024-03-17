@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/LisowskiJakub.github.io/hw5-react-movies/static/css/main.4631cc38.css",
-    "main.js": "/LisowskiJakub.github.io/hw5-react-movies/static/js/main.f6e26936.js",
+    "main.js": "/LisowskiJakub.github.io/hw5-react-movies/static/js/main.0c7541ae.js",
     "static/js/933.d9d8d6ec.chunk.js": "/LisowskiJakub.github.io/hw5-react-movies/static/js/933.d9d8d6ec.chunk.js",
     "static/js/778.48352fff.chunk.js": "/LisowskiJakub.github.io/hw5-react-movies/static/js/778.48352fff.chunk.js",
     "static/js/149.bc92fa5c.chunk.js": "/LisowskiJakub.github.io/hw5-react-movies/static/js/149.bc92fa5c.chunk.js",
@@ -11,7 +11,7 @@
     "static/js/317.749b612f.chunk.js": "/LisowskiJakub.github.io/hw5-react-movies/static/js/317.749b612f.chunk.js",
     "index.html": "/LisowskiJakub.github.io/hw5-react-movies/index.html",
     "main.4631cc38.css.map": "/LisowskiJakub.github.io/hw5-react-movies/static/css/main.4631cc38.css.map",
-    "main.f6e26936.js.map": "/LisowskiJakub.github.io/hw5-react-movies/static/js/main.f6e26936.js.map",
+    "main.0c7541ae.js.map": "/LisowskiJakub.github.io/hw5-react-movies/static/js/main.0c7541ae.js.map",
     "933.d9d8d6ec.chunk.js.map": "/LisowskiJakub.github.io/hw5-react-movies/static/js/933.d9d8d6ec.chunk.js.map",
     "778.48352fff.chunk.js.map": "/LisowskiJakub.github.io/hw5-react-movies/static/js/778.48352fff.chunk.js.map",
     "149.bc92fa5c.chunk.js.map": "/LisowskiJakub.github.io/hw5-react-movies/static/js/149.bc92fa5c.chunk.js.map",
@@ -22,6 +22,6 @@
   },
   "entrypoints": [
     "static/css/main.4631cc38.css",
-    "static/js/main.f6e26936.js"
+    "static/js/main.0c7541ae.js"
   ]
 }

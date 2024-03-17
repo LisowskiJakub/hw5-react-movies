@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/LisowskiJakub.github.io/hw5-react-movies/static/css/main.4631cc38.css",
-    "main.js": "/LisowskiJakub.github.io/hw5-react-movies/static/js/main.d762acb8.js",
-    "static/js/933.f474ea35.chunk.js": "/LisowskiJakub.github.io/hw5-react-movies/static/js/933.f474ea35.chunk.js",
-    "static/js/778.6883576b.chunk.js": "/LisowskiJakub.github.io/hw5-react-movies/static/js/778.6883576b.chunk.js",
-    "static/js/149.17f567b0.chunk.js": "/LisowskiJakub.github.io/hw5-react-movies/static/js/149.17f567b0.chunk.js",
-    "static/js/805.d3a50c8c.chunk.js": "/LisowskiJakub.github.io/hw5-react-movies/static/js/805.d3a50c8c.chunk.js",
-    "static/js/181.3d4d22a8.chunk.js": "/LisowskiJakub.github.io/hw5-react-movies/static/js/181.3d4d22a8.chunk.js",
-    "static/js/434.91c0dae7.chunk.js": "/LisowskiJakub.github.io/hw5-react-movies/static/js/434.91c0dae7.chunk.js",
-    "static/js/317.749b612f.chunk.js": "/LisowskiJakub.github.io/hw5-react-movies/static/js/317.749b612f.chunk.js",
-    "index.html": "/LisowskiJakub.github.io/hw5-react-movies/index.html",
-    "main.4631cc38.css.map": "/LisowskiJakub.github.io/hw5-react-movies/static/css/main.4631cc38.css.map",
-    "main.d762acb8.js.map": "/LisowskiJakub.github.io/hw5-react-movies/static/js/main.d762acb8.js.map",
-    "933.f474ea35.chunk.js.map": "/LisowskiJakub.github.io/hw5-react-movies/static/js/933.f474ea35.chunk.js.map",
-    "778.6883576b.chunk.js.map": "/LisowskiJakub.github.io/hw5-react-movies/static/js/778.6883576b.chunk.js.map",
-    "149.17f567b0.chunk.js.map": "/LisowskiJakub.github.io/hw5-react-movies/static/js/149.17f567b0.chunk.js.map",
-    "805.d3a50c8c.chunk.js.map": "/LisowskiJakub.github.io/hw5-react-movies/static/js/805.d3a50c8c.chunk.js.map",
-    "181.3d4d22a8.chunk.js.map": "/LisowskiJakub.github.io/hw5-react-movies/static/js/181.3d4d22a8.chunk.js.map",
-    "434.91c0dae7.chunk.js.map": "/LisowskiJakub.github.io/hw5-react-movies/static/js/434.91c0dae7.chunk.js.map",
-    "317.749b612f.chunk.js.map": "/LisowskiJakub.github.io/hw5-react-movies/static/js/317.749b612f.chunk.js.map"
+    "main.css": "/hw5-react-movies/static/css/main.4631cc38.css",
+    "main.js": "/hw5-react-movies/static/js/main.e864775e.js",
+    "static/js/933.f474ea35.chunk.js": "/hw5-react-movies/static/js/933.f474ea35.chunk.js",
+    "static/js/778.6883576b.chunk.js": "/hw5-react-movies/static/js/778.6883576b.chunk.js",
+    "static/js/149.17f567b0.chunk.js": "/hw5-react-movies/static/js/149.17f567b0.chunk.js",
+    "static/js/805.d3a50c8c.chunk.js": "/hw5-react-movies/static/js/805.d3a50c8c.chunk.js",
+    "static/js/181.3d4d22a8.chunk.js": "/hw5-react-movies/static/js/181.3d4d22a8.chunk.js",
+    "static/js/434.91c0dae7.chunk.js": "/hw5-react-movies/static/js/434.91c0dae7.chunk.js",
+    "static/js/317.749b612f.chunk.js": "/hw5-react-movies/static/js/317.749b612f.chunk.js",
+    "index.html": "/hw5-react-movies/index.html",
+    "main.4631cc38.css.map": "/hw5-react-movies/static/css/main.4631cc38.css.map",
+    "main.e864775e.js.map": "/hw5-react-movies/static/js/main.e864775e.js.map",
+    "933.f474ea35.chunk.js.map": "/hw5-react-movies/static/js/933.f474ea35.chunk.js.map",
+    "778.6883576b.chunk.js.map": "/hw5-react-movies/static/js/778.6883576b.chunk.js.map",
+    "149.17f567b0.chunk.js.map": "/hw5-react-movies/static/js/149.17f567b0.chunk.js.map",
+    "805.d3a50c8c.chunk.js.map": "/hw5-react-movies/static/js/805.d3a50c8c.chunk.js.map",
+    "181.3d4d22a8.chunk.js.map": "/hw5-react-movies/static/js/181.3d4d22a8.chunk.js.map",
+    "434.91c0dae7.chunk.js.map": "/hw5-react-movies/static/js/434.91c0dae7.chunk.js.map",
+    "317.749b612f.chunk.js.map": "/hw5-react-movies/static/js/317.749b612f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4631cc38.css",
-    "static/js/main.d762acb8.js"
+    "static/js/main.e864775e.js"
   ]
 }

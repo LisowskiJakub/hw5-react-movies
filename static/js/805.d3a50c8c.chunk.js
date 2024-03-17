@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkhw5_reat_movies=self.webpackChunkhw5_reat_movies||[]).push([[805],{805:function(e,t,n){n.r(t);var i=n(184);t.default=function(){return(0,i.jsxs)("main",{style:{textAlign:"center"},children:[(0,i.jsx)("b",{style:{fontSize:64},children:"404"}),(0,i.jsx)("p",{children:"Sorry, we couldn't find that movie :("})]})}}}]);
+//# sourceMappingURL=805.d3a50c8c.chunk.js.map
